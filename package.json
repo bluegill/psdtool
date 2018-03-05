@@ -1,0 +1,13 @@
+{
+  "name": "psdtool",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Convert batch psd to pnd",
+  "bin": {
+    "themetool": "index.js"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "prompt": "^1.0.0"
+  }
+}
